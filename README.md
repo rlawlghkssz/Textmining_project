@@ -24,6 +24,4 @@ BERT trained model은 아래 링크에서 압축파일을 다운 받고 압축�
     - $tar -zxvf {tar.gz file} ./tmp
     - code/ 에 압축을 푼 tmp/ 을 위치시킨다.
 
-![파일 로케이션 예시](image.png)
-
 run_main.py를 실행하면 프로그램을 실행합니다.
